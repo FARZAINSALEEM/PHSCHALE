@@ -1,0 +1,116 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    margin-top: auto;
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: red 1px 1px 2px;
+    text-decoration: underline;}
+    #a {
+      background-color: #0000FF; /* Dark blue */
+      color: white; /* Text color */
+      font-size: 25px;
+      margin-bottom: 0;
+    }
+    
+    #b {
+      background-color: #6495ED; /* Lighter than a but darker than c */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #c {
+      background-color: #00CED1; /* Lighter than b but darker than d */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #d {
+      background-color: #19c5db; /* Lighter than c but darker than e */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #e {
+      background-color: #46e5fa; /* Lighter than d but darker than f */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #f {
+      background-color: #7aeeee; /* Lighter than e but darker than g */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #g {
+      background-color: #AFEEEE; /* Lighter than f */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #ff {
+      background-color: #00FF00; /* Green */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #h {
+      background-color: #FFB6C1; /* Light pink */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #i {
+      background-color: #FFC0CB; /* Darker than h */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #j {
+      background-color: #f394b4; /* Darker than i */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #k {
+    background-color:#f394b4;;
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #l {
+       background-color:#FF69B4;/* Darker than k */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #m {
+      background-color: #ff1493; /* Darker than l */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
+    #n {
+      background-color: #C71585;/* #FFC0CB; /* Darker than m */
+      font-size: 25px;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    
